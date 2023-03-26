@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id 3977030 */
+  src: url('iconfont.woff2?t=1679831848839') format('woff2'),
+    url('iconfont.woff?t=1679831848839') format('woff'),
+    url('iconfont.ttf?t=1679831848839') format('truetype');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfontL {
+  font-family: 'iconfont' !important;
+  font-size: 30px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-rili:before {
+  content: '\e600';
+}
+
+.icon-xiangyou1:before {
+  content: '\e775';
+}
+
+.icon-jurassic_text:before {
+  content: '\e6a3';
+}
+
+.icon-zuanshi:before {
+  content: '\eaee';
+}
+
+.icon-aixin_shixin:before {
+  content: '\eca1';
+}
+
+.icon-pinglun:before {
+  content: '\e60c';
+}
+
+.icon-sousuo:before {
+  content: '\e8b9';
+}
+
+.icon-discover:before {
+  content: '\e69b';
+}
+
+.icon-vip:before {
+  content: '\e642';
+}
+
+.icon-download:before {
+  content: '\e63a';
+}
+
+.icon-jishufuwu:before {
+  content: '\e604';
+}
